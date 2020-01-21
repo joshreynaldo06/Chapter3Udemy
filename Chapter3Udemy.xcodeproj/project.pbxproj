@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D49D7FDF23D6B1980025BCD2 /* Chapter3Udemy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Chapter3Udemy.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D49D7FDF23D6B1980025BCD2 /* I Am Not So Poor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "I Am Not So Poor.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D49D7FE223D6B1980025BCD2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D49D7FE423D6B1980025BCD2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		D49D7FE623D6B1980025BCD2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		D49D7FE023D6B1980025BCD2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D49D7FDF23D6B1980025BCD2 /* Chapter3Udemy.app */,
+				D49D7FDF23D6B1980025BCD2 /* I Am Not So Poor.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -84,7 +84,7 @@
 			);
 			name = Chapter3Udemy;
 			productName = Chapter3Udemy;
-			productReference = D49D7FDF23D6B1980025BCD2 /* Chapter3Udemy.app */;
+			productReference = D49D7FDF23D6B1980025BCD2 /* I Am Not So Poor.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -292,9 +292,9 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.JRCJosh.Chapter3Udemy;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "I Am Not So Poor";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -310,9 +310,9 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.JRCJosh.Chapter3Udemy;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "I Am Not So Poor";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
